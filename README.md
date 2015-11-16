@@ -2,4 +2,4 @@
 ree
 my first reposinory on GitHub
 
-I love : Pizza:, Coffe:.
+I love :pizza: :coffee:, and dancer:.
